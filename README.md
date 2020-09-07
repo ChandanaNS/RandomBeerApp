@@ -10,3 +10,5 @@ Also, You can click on the beer's brewery name to view more information about th
 Developer requirement document has been prepared before development which involves all the requirement of the app.
 Document is attached [RandomBeerSRS.doc](https://github.com/ChandanaNS/RandomBeerApp/blob/master/RandomBeerSRS.doc)
 
+### Sandbox:
+Live Demo: [OpenSandbox](https://k0qhg.csb.app/)
